@@ -1,33 +1,40 @@
 <h1 align="center">Hi 👋, I'm Yash Shah</h1>
 <h3 align="center">AI & ML Engineer | LLM Enthusiast | Builder of Practical AI Systems</h3>
 
----
-<!-- 👇 Moved Socials to just after heading -->
+<p align="center">
+  <a href="https://instagram.com/_yaasshhh._">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://linkedin.com/in/yash-shah-472033302">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:shahyash25113@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_yaasshhh._)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-shah-472033302)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahyash25113@gmail.com)
 
 ---
 ## 💫 About Me
-<table>
-<tr>
-<td width="60%" valign="top">
 
-👨‍🎓 Currently pursuing a **Bachelor of Technology in Artificial Intelligence and Machine Learning**  
-🔭 Currently working on **[DocentLink](https://github.com/yash25112003/AskMyProf.git)** – an LLM-powered platform automating TA/RA outreach  
-🤝 Looking to collaborate on **Generative AI solutions and impactful research projects**  
-👯 Passionate about **Generative AI, LLMs, VLMs, Agentic AI, Recommender Systems, Machine Learning, NLP, RAG, Deep Learning, Product Building, and Music**  
-🌱 Currently learning **React Native, Nest.js**, and diving deeper into **LangChain and AWS**  
+<div align="center">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 30px; flex-wrap: wrap;">
 
-</td>
-<td align="center" width="40%">
+    <div align="left" style="max-width: 500px;">
+      <p>👨‍🎓 Currently pursuing a <b>Bachelor of Technology in Artificial Intelligence and Machine Learning</b></p>
+      <p>🔭 Currently working on <a href="https://github.com/yash25112003/AskMyProf.git"><b>DocentLink</b></a> – an LLM-powered platform automating TA/RA outreach</p>
+      <p>🤝 Looking to collaborate on <b>Generative AI solutions and impactful research projects</b></p>
+      <p>👯 Passionate about <b>Generative AI, LLMs, VLMs, Agentic AI, Recommender Systems, Machine Learning, NLP, RAG, Deep Learning, Product Building, and Music</b></p>
+      <p>🌱 Currently learning <b>React Native, Nest.js</b> and diving deeper into <b>LangChain and AWS</b></p>
+    </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="240" height="240"/>
+    <div>
+      <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="270" alt="coding animation">
+    </div>
 
-</td>
-</tr>
-</table>
+  </div>
+</div>
+
 
 ---
 
