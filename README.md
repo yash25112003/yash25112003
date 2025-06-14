@@ -14,8 +14,7 @@
 
 ## 🌐 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_yaasshhh._)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-shah-472033302)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_yaasshhh._)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-shah-472033302)  
 📫 **Email:** shahyash25113@gmail.com
 
 ---
@@ -67,7 +66,7 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=yash25112003&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=yash25112003&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=yash25112003&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yash25112003&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
@@ -76,9 +75,3 @@
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=yash25112003&theme=flag-india&no-frame=true&no-bg=true&margin-w=4)
-
----
-
-## 🧠 Quote I Live By
-
-> *“The best way to predict the future is to invent it.” – Alan Kay*
