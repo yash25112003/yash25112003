@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Shah</h1>
-<h3 align="center">AI & ML Engineer | LLM Enthusiast | Builder of Practical AI Systems</h3>
+<h3 align="center">AI Engineer | LLM Enthusiast</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/yash-shah-472033302">
@@ -20,11 +20,13 @@
 
   ### 💫 About Me
 
-  [cite_start]<span style="display: inline-block; text-indent: -1.5em; padding-left: 1.5em;">🎓 Currently pursuing a **Bachelor of Technology in Artificial Intelligence and Machine Learning** </span><br>
-  [cite_start]<span style="display: inline-block; text-indent: -1.5em; padding-left: 1.5em;">🔭 Currently working on <a href="https://github.com/yash25112003/AskMyProf.git"><b>DocentLink</b></a> – an LLM-powered platform automating TA/RA outreach </span><br>
-  <span style="display: inline-block; text-indent: -1.5em; padding-left: 1.5em;">🤝 Looking to collaborate on **Generative AI solutions and impactful research projects**</span><br>
-  <span style="display: inline-block; text-indent: -1.5em; padding-left: 1.5em;">👯 Passionate about **Generative AI, LLMs, VLMs, Agentic AI, Recommender Systems, Machine Learning, NLP, RAG, Deep Learning, Product Building, and Music**</span><br>
-  <span style="display: inline-block; text-indent: -1.5em; padding-left: 1.5em;">🌱 Currently learning **React Native, Nest.js** and diving deeper into **LangChain and AWS**</span>
+  * 🎓 Final-year undergraduate pursuing a **B.Tech in Artificial Intelligence and Machine Learning**
+  * 🔭 Currently building [**DocentLink**](https://github.com/yash25112003/AskMyProf.git) – an LLM-powered platform automating TA/RA outreach 
+  * 🥉 3rd Prize Winner at Prakalp'25 (Dj Sanghvi 2025)
+  * 🤝 Looking to collaborate on **Generative AI solutions and impactful research projects**
+  * 👯 Passionate about **Generative AI, LLMs, VLMs, Rag, Agentic AI, Recommender Systems, NLP, and Deep Learning**
+  * 🌱 Learning React Native, Nest.js, and exploring LangChain & AWS
+
 </p>
 
 ---
@@ -78,7 +80,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=yash25112003&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=yash25112003&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yash25112003&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 
 ---
 
