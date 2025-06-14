@@ -1,100 +1,84 @@
 <h1 align="center">Hi 👋, I'm Yash Shah</h1>
-<h3 align="center">Innovating at the Intersection of AI, Machine Learning, and User Experience.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash25112003&theme=flag-india&no-frame=true&no-bg=true&margin-w=4" alt="yash25112003" /></a> </p>
-
-A passionate AI and Machine Learning enthusiast with a strong foundation in building intelligent systems and user-centric applications. [cite_start]Currently pursuing a Bachelor of Technology in Artificial Intelligence and Machine Learning, I thrive on transforming complex ideas into practical and impactful solutions. My expertise spans developing AI-powered recommendation engines, automating academic outreach, and creating intuitive web and mobile experiences.
+<h3 align="center">AI & ML Engineer | LLM Enthusiast | Builder of Practical AI Systems</h3>
 
 ---
 
-### 🔭 What I'm Currently Working On:
+## 💫 About Me
 
-* [cite_start]**DocentLink:** Built a one-click academic outreach platform that parses resumes and browses faculty sites (via Playwright & Gemini LLM) to generate personalized TA/RA emails, automating professor communication. [cite: 11] (Check it out: [DocentLink Repository](https://github.com/yash25112003/AskMyProf.git))
-* **Chapterly:** Engineering an autonomous book-writing agent using GitHub API, Crew AI, and memory chains. [cite_start]Co-authoring a technical book with a professor showcasing long-form LLM planning and versioning. 
-
----
-
-### 🌱 What I'm Currently Learning & Exploring:
-
-I'm currently diving into **React Native** and **Nest.js** for building scalable and efficient applications. I'm always eager to explore new technologies, especially in:
-
-* **Generative AI:** Focused on practical applications and innovative solutions.
-* **Vision-Language Models (VLMs):** Understanding how to combine visual and textual data for richer AI.
-* **Agentic AI:** Building autonomous and intelligent agents.
-* **AI in Healthcare:** Exploring how AI can create impactful solutions for health and wellness.
+🔭 I’m currently working on **[DocentLink](https://github.com/yash25112003/AskMyProf.git)** – an LLM-powered platform automating TA/RA outreach  
+🤝 I’m looking to collaborate on **Generative AI solutions and impactful research projects**  
+👯 I’m interested in **Generative AI, LLMs, VLMs, Agentic AI, Recommender Systems, Machine Learning, NLP, RAG, Deep Learning, AI in Healthcare, Product Building, and Music**  
+🌱 I’m currently learning **React Native, Nest.js**, and diving deeper into **LangChain and AWS**
 
 ---
 
-### 👯 I'm Interested In:
+## 🌐 Socials
 
-* **Generative AI, LLMs, Vision-Language Models (VLMs), Agentic AI, Recommender Systems, Machine Learning, NLP, RAG, Deep Learning, AI in Healthcare, Product Building, and Music.**
-
-### 🤝 I'm Looking To Collaborate On:
-
-I'm actively seeking opportunities to collaborate on **Generative AI solutions**, particularly projects that involve:
-
-* Leveraging LLMs for creative content generation and complex problem-solving.
-* Developing innovative applications with VLMs.
-* Building intelligent agentic systems.
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_yaasshhh._)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-shah-472033302)  
+📫 **Email:** shahyash25113@gmail.com
 
 ---
 
-### 💻 My Core Skills & Tech Stack:
+## 💻 Tech Stack
 
-* [cite_start]**AI/ML & Data Science:** Supervised & Unsupervised Learning, Deep Learning (CNNs, RNN), NLP (BERT, GPT), LLM, RAG, TensorFlow, Scikit-learn, NumPy, Pandas, Recommendation Systems (Collaborative Filtering). 
-* [cite_start]**Programming Languages:** Python, C/C++, SQL, Dart. 
-* [cite_start]**App/Web Development:** Flutter, HTML5, CSS3, Figma, Node.js, Firebase, MongoDB. 
-* [cite_start]**Backend:** Node.js, Firebase, MongoDB. 
-* [cite_start]**Methodologies:** Agile, Waterfall, Scrum. 
-* [cite_start]**Version Control:** Git, GitHub. 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 
-<p align="left">
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-    <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-</p>
+**Frameworks & Tools:**  
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat-square&logo=streamlit&logoColor=white)
 
----
+**Databases & Cloud:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 
-### 📈 GitHub Stats:
+**AI/ML Libraries & Tools:**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash25112003&show_icons=true&locale=en&layout=compact" alt="yash25112003" />
-</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash25112003&show_icons=true&locale=en" alt="yash25112003" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash25112003&" alt="yash25112003" /></p>
+**Design & Productivity:**  
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-### 📫 Let's Connect!
+## 📊 GitHub Stats
 
-I'm always open to discussing new ideas in AI/ML and software development, or collaborating on exciting projects. Feel free to reach out!
+![](https://github-readme-stats.vercel.app/api?username=yash25112003&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=yash25112003&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yash25112003&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-* [cite_start]**Email:** shahyash25113@gmail.com 
-* [cite_start]**LinkedIn:** [Yash Shah on LinkedIn](https://linkedin.com/in/Yash Shah) (Remember to replace `Yash Shah` in the URL with your actual LinkedIn profile ID/username) 
+---
 
-<p align="left">
-    <a href="https://instagram.com/_yaasshhh._" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="instagram" height="30" width="auto" /></a>
-    <a href="https://linkedin.com/in/Yash Shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash shah" height="30" width="40" /></a>
-</p>
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=yash25112003&theme=flag-india&no-frame=true&no-bg=true&margin-w=4)
+
+---
+
+## 🧠 Quote I Live By
+
+> *“The best way to predict the future is to invent it.” – Alan Kay*
