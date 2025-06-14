@@ -18,23 +18,25 @@
 ---
 ## 💫 About Me
 
-<div align="center">
-  <div style="display: flex; justify-content: center; align-items: center; gap: 30px; flex-wrap: wrap;">
+<table>
+<tr>
+<td valign="top" width="60%">
 
-    <div align="left" style="max-width: 500px;">
-      <p>🎓 Currently pursuing a <b>Bachelor of Technology in Artificial Intelligence and Machine Learning</b></p>
-      <p>🔭 Currently working on <a href="https://github.com/yash25112003/AskMyProf.git"><b>DocentLink</b></a> – an LLM-powered platform automating TA/RA outreach</p>
-      <p>🤝 Looking to collaborate on <b>Generative AI solutions and impactful research projects</b></p>
-      <p>👯 Passionate about <b>Generative AI, LLMs, VLMs, Agentic AI, Recommender Systems, Machine Learning, NLP, RAG, Deep Learning, Product Building, and Music</b></p>
-      <p>🌱 Currently learning <b>React Native, Nest.js</b> and diving deeper into <b>LangChain and AWS</b></p>
-    </div>
+<p>🎓 Currently pursuing a <b>Bachelor of Technology in Artificial Intelligence and Machine Learning</b></p>
+<p>🔭 Currently working on <a href="https://github.com/yash25112003/AskMyProf.git"><b>DocentLink</b></a> – an LLM-powered platform automating TA/RA outreach</p>
+<p>🤝 Looking to collaborate on <b>Generative AI solutions and impactful research projects</b></p>
+<p>👯 Passionate about <b>Generative AI, LLMs, VLMs, Agentic AI, Recommender Systems, Machine Learning, NLP, RAG, Deep Learning, Product Building, and Music</b></p>
+<p>🌱 Currently learning <b>React Native, Nest.js</b> and diving deeper into <b>LangChain and AWS</b></p>
 
-    <div>
-      <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="270" alt="coding animation">
-    </div>
+</td>
+<td align="center" width="40%">
 
-  </div>
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="250"/>
+
+</td>
+</tr>
+</table>
+
 
 ---
 
