@@ -20,26 +20,17 @@
 
   ### 💫 About Me
 
-  * [cite_start]🎓 Currently pursuing a **Bachelor of Technology in Artificial Intelligence and Machine Learning** 
-  * [cite_start]🔭 Currently working on [**DocentLink**](https://github.com/yash25112003/AskMyProf.git) – an LLM-powered platform automating TA/RA outreach 
-  * 🤝 Looking to collaborate on **Generative AI solutions and impactful research projects**
-  * 👯 Passionate about **Generative AI, LLMs, VLMs, Agentic AI, Recommender Systems, Machine Learning, NLP, RAG, Deep Learning, Product Building, and Music**
-  * 🌱 Currently learning **React Native, Nest.js** and diving deeper into **LangChain and AWS**
-
+  [cite_start]<span style="display: inline-block; text-indent: -1.5em; padding-left: 1.5em;">🎓 Currently pursuing a **Bachelor of Technology in Artificial Intelligence and Machine Learning** </span><br>
+  [cite_start]<span style="display: inline-block; text-indent: -1.5em; padding-left: 1.5em;">🔭 Currently working on <a href="https://github.com/yash25112003/AskMyProf.git"><b>DocentLink</b></a> – an LLM-powered platform automating TA/RA outreach </span><br>
+  <span style="display: inline-block; text-indent: -1.5em; padding-left: 1.5em;">🤝 Looking to collaborate on **Generative AI solutions and impactful research projects**</span><br>
+  <span style="display: inline-block; text-indent: -1.5em; padding-left: 1.5em;">👯 Passionate about **Generative AI, LLMs, VLMs, Agentic AI, Recommender Systems, Machine Learning, NLP, RAG, Deep Learning, Product Building, and Music**</span><br>
+  <span style="display: inline-block; text-indent: -1.5em; padding-left: 1.5em;">🌱 Currently learning **React Native, Nest.js** and diving deeper into **LangChain and AWS**</span>
 </p>
 
 ---
 
-## 🌐 Socials
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_yaasshhh._)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-shah-472033302)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahyash25113@gmail.com)
-
----
-
 ## 💻 Tech Stack
-
+**Programming Languages:**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
