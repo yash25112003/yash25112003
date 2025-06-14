@@ -6,14 +6,17 @@
 ## 💫 About Me
 <table>
 <tr>
-<td width="60%">
+<td width="60%" valign="top">
 
 👨‍🎓 Currently pursuing a **Bachelor of Technology in Artificial Intelligence and Machine Learning**  
 🔭 Currently working on **[DocentLink](https://github.com/yash25112003/AskMyProf.git)** – an LLM-powered platform automating TA/RA outreach  
 🤝 Looking to collaborate on **Generative AI solutions and impactful research projects**  
 👯 Passionate about **Generative AI, LLMs, VLMs, Agentic AI, Recommender Systems, Machine Learning, NLP, RAG, Deep Learning, Product Building, and Music**  
 🌱 Currently learning **React Native, Nest.js**, and diving deeper into **LangChain and AWS**  
-
+📫 Contact Me:  
+<a href="mailto:shahyash25113@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge">
+</a>
 
 </td>
 <td align="center" width="40%">
@@ -28,7 +31,7 @@
 
 ## 🌐 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_yaasshhh._)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-shah-472033302)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahyash25113@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_yaasshhh._)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-shah-472033302)  [email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahyash25113@gmail.com)
 
 
 ---
