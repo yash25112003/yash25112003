@@ -4,18 +4,32 @@
 ---
 
 ## 💫 About Me
+<table>
+<tr>
+<td width="60%">
 
-🔭 I’m currently working on **[DocentLink](https://github.com/yash25112003/AskMyProf.git)** – an LLM-powered platform automating TA/RA outreach  
-🤝 I’m looking to collaborate on **Generative AI solutions and impactful research projects**  
-👯 I’m interested in **Generative AI, LLMs, VLMs, Agentic AI, Recommender Systems, Machine Learning, NLP, RAG, Deep Learning, AI in Healthcare, Product Building, and Music**  
-🌱 I’m currently learning **React Native, Nest.js**, and diving deeper into **LangChain and AWS**
+👨‍🎓 Currently pursuing a **Bachelor of Technology in Artificial Intelligence and Machine Learning**  
+🔭 Currently working on **[DocentLink](https://github.com/yash25112003/AskMyProf.git)** – an LLM-powered platform automating TA/RA outreach  
+🤝 Looking to collaborate on **Generative AI solutions and impactful research projects**  
+👯 Passionate about **Generative AI, LLMs, VLMs, Agentic AI, Recommender Systems, Machine Learning, NLP, RAG, Deep Learning, Product Building, and Music**  
+🌱 Currently learning **React Native, Nest.js**, and diving deeper into **LangChain and AWS**  
+
+
+</td>
+<td align="center" width="40%">
+
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="240" height="240"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🌐 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_yaasshhh._)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-shah-472033302)  
-📫 **Email:** shahyash25113@gmail.com
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_yaasshhh._)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-shah-472033302)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahyash25113@gmail.com)
+
 
 ---
 
