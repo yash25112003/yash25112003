@@ -13,10 +13,6 @@
 🤝 Looking to collaborate on **Generative AI solutions and impactful research projects**  
 👯 Passionate about **Generative AI, LLMs, VLMs, Agentic AI, Recommender Systems, Machine Learning, NLP, RAG, Deep Learning, Product Building, and Music**  
 🌱 Currently learning **React Native, Nest.js**, and diving deeper into **LangChain and AWS**  
-📫 Contact Me:  
-<a href="mailto:shahyash25113@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge">
-</a>
 
 </td>
 <td align="center" width="40%">
