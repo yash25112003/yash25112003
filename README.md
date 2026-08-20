@@ -20,12 +20,13 @@
 
   ### 💫 About Me
 
-  * 🎓 Final-year undergraduate pursuing a **B.Tech in Artificial Intelligence and Machine Learning**
-  * 🔭 Currently building [**DocentLink**](https://github.com/yash25112003/AskMyProf.git) – an LLM-powered platform automating TA/RA outreach 
-  * 🥉 3rd Prize Winner at Prakalp'25 (Dj Sanghvi 2025)
-  * 🤝 Looking to collaborate on **Generative AI solutions and impactful research projects**
-  * 👯 Passionate about **Generative AI, LLMs, VLMs, Rag, Agentic AI, Recommender Systems, NLP, and Deep Learning**
-  * 🌱 Learning React Native, Nest.js, and exploring LangChain & AWS
+  * 🎓 M.S. Computer Science (Thesis) student at Arizona State University, 4.0 GPA — expected May 2027
+  * 🔬 NLP Researcher, CoRAL Lab — diffusion language models, LLM evaluation, LLM reliability, responsible AI
+  * 🔭 Building DocentLink — an LLM-powered platform automating TA/RA outreach
+  * 🥉 3rd Prize, Prakalp'25 (Dj Sanghvi, 2025)
+  * 🤝 Open to collaborating on Generative AI and applied research projects
+  * 💡 Focused on LLMs, RAG, Agentic AI/tool calling, Diffusion Language Models, Recommender Systems, NLP, and Deep Learning
+  * 🌱 Currently exploring LangChain, GCP/AWS, and distributed GPU experimentation
 
 </p>
 
